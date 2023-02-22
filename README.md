@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Daniela
+## Hi there 👋, I'm Daniela
 
 **Frontend developer in training ♥**
 
