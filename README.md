@@ -2,7 +2,7 @@
 
 **Frontend developer in training ♥**
 
-- 🔭 I’m currently working on an application with react that allows you to create and keep track of a to-do list. Implementing Redux and Firestore.
+- 🔭 I’m currently working on an application with react that allows you to create and keep track of a to-do list. Implementing Redux and Firebase.
 - 🌱 I’m currently learning frontend development with HTML, CSS, Javascript, SASS, ReactJs and Webpack.
 - 💬 Ask me about HTML, CSS y JavaScript.
 - 📫 How to reach me: **danipaez1098@gmail.com**
