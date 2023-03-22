@@ -2,9 +2,9 @@
 
 **Front end developer in training ♥**
 
-- 🔭 I’m currently working on an application with react that allows you to create and keep track of a to-do list. Implementing Redux and Firebase.
-- 🌱 I’m currently learning frontend development with HTML, CSS, Javascript, SASS, ReactJs and Webpack.
-- 💬 Ask me about HTML, CSS y JavaScript.
+- 🔭 I’m currently working on an application with react that allows you to order food at home in a restaurant of your choice, implementing Redux, Firebase, FireStore, Cloudinary, React Router.
+- 🌱 I’m currently learning Redux, Firebase and Cloudinary.
+- 💬 Ask me about HTML, CSS, JavaScript and React.
 - 📫 How to reach me: **danipaez1098@gmail.com**
 - ⚡ Fun fact: My favorite series is Grey's Anatomy.
 
