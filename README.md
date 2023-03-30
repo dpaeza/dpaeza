@@ -1,6 +1,6 @@
-## Hi there 👋, I'm Daniela
+## Hi there 👋, I'm Daniela <img src="https://media3.giphy.com/media/XIhQr5ElS9dlaFU6Nq/giphy.gif?cid=ecf05e47ggmdqb00kjez9e5ui7oa2j8ayibr037gh7u2n5k3&rid=giphy.gif&ct=s" width="70" align='right'>
 
-**Front end developer in training ♥**
+**Front end developer in training ♥** <img src="https://media0.giphy.com/media/8H1SPh0ysU9EoXMzVj/giphy.gif?cid=ecf05e47uvilrk9f3ch7ikb0ow6z71zuq4gg68a732s71dov&rid=giphy.gif&ct=s" width="70" align='center'>
 
 - 🔭 I’m currently working on an application with react that allows you to order food at home in a restaurant of your choice, implementing Redux, Firebase, FireStore, Cloudinary, React Router.
 - 🌱 I’m currently learning Redux, Firebase and Cloudinary.
