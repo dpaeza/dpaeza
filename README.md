@@ -1,10 +1,10 @@
 ## Hi there 👋, I'm Daniela 
 
-**Front end developer in training ♥** <img src="https://media0.giphy.com/media/8H1SPh0ysU9EoXMzVj/giphy.gif?cid=ecf05e47uvilrk9f3ch7ikb0ow6z71zuq4gg68a732s71dov&rid=giphy.gif&ct=s" width="50" align='center'>
+**Front end developer ♥** <img src="https://media0.giphy.com/media/8H1SPh0ysU9EoXMzVj/giphy.gif?cid=ecf05e47uvilrk9f3ch7ikb0ow6z71zuq4gg68a732s71dov&rid=giphy.gif&ct=s" width="50" align='center'>
 
-- 🔭 I’m currently working on an application with react that allows you to order food at home in a restaurant of your choice, implementing Redux, Firebase, FireStore, Cloudinary, React Router.
-- 🌱 I’m currently learning Redux, Firebase and Cloudinary.
-- 💬 Ask me about HTML, CSS, JavaScript and React.
+- 🔭 I’m currently working on my web portfolio to show my projects.
+- 🌱 I’m currently learning typescript and Angular.
+- 💬 Ask me about HTML, CSS, JavaScript and ReactJs.
 - 📫 How to reach me: **danipaez1098@gmail.com**
 - ⚡ Fun fact: My favorite series is Grey's Anatomy.
 
