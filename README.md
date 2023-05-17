@@ -7,7 +7,7 @@
 - 💬 Ask me about HTML, CSS, JavaScript and ReactJs.
 - 📫 How to reach me: **danipaez1098@gmail.com**
 - ⚡ Fun fact: My favorite series is Grey's Anatomy.
-- Contact me on LinkedIn <a href="https://linkedin.com/in/https://www.linkedin.com/in/daniela-paez-delahoz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniela-paez-delahoz/" height="12" width="22" /></a>
+- Contact me on LinkedIn <a href="https://www.linkedin.com/in/daniela-paez-delahoz/" target="blank"><img align="bottom" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn Logo" height="15" width="25" /></a>
 
 
 
