@@ -2,9 +2,7 @@
 
 **Front end developer** <img src="https://media0.giphy.com/media/8H1SPh0ysU9EoXMzVj/giphy.gif?cid=ecf05e47uvilrk9f3ch7ikb0ow6z71zuq4gg68a732s71dov&rid=giphy.gif&ct=s" width="50" align='center'>
 
-- 🔭 I’m currently working on the website of a buffet business..
-- 🌱 I’m currently learning SQL.
-- 💬 Ask me about HTML, CSS, JavaScript and ReactJs.
+- 💬 Ask me about ReactJs, Svelte and Svelte kit.
 - 📫 How to reach me: **danipaez1098@gmail.com**
 - Contact me on LinkedIn <a href="https://www.linkedin.com/in/daniela-paez-delahoz/" target="blank"><img align="bottom" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn Logo" height="15" width="25" /></a>
 
