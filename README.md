@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Daniela 
 
-**Full Stack Developer** <img src="https://media0.giphy.com/media/8H1SPh0ysU9EoXMzVj/giphy.gif?cid=ecf05e47uvilrk9f3ch7ikb0ow6z71zuq4gg68a732s71dov&rid=giphy.gif&ct=s" width="50" align='center'>
+**Fullstack Developer** <img src="https://media0.giphy.com/media/8H1SPh0ysU9EoXMzVj/giphy.gif?cid=ecf05e47uvilrk9f3ch7ikb0ow6z71zuq4gg68a732s71dov&rid=giphy.gif&ct=s" width="50" align='center'>
 
 - 🧠 I'm passionate about building user-friendly interfaces and clean, maintainable code.
 - 💬 Ask me about **React**, **Svelte**, or **SvelteKit**.
